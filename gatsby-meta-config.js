@@ -2,11 +2,11 @@ module.exports = {
   title: `dev132`,
   description: `dev132`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `localhost:8000`,
+  siteUrl: `https://1lsang.github.io`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
-      repo: ``, // `zoomkoding/zoomkoding-gatsby-blog`,
+      repo: `1lsang/1lsang.github.io`, // `zoomkoding/zoomkoding-gatsby-blog`,
     },
   },
   ga: '0', // Google Analytics Tracking ID

@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://1lsang.github.io/sitemap-index.xml
+Host: https://1lsang.github.io

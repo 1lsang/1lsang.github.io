@@ -49,18 +49,18 @@ module.exports = {
         anonymize: true,
       },
     },
-    {
-      resolve: `gatsby-plugin-manifest`,
-      options: {
-        name: metaConfig.title,
-        short_name: metaConfig.title,
-        description: metaConfig.description,
-        lang: `en`,
-        display: `standalone`,
-        start_url: `/`,
-        icon: `static/favicon.png`,
-      },
-    },
+    // {
+    //   resolve: `gatsby-plugin-manifest`,
+    //   options: {
+    //     name: metaConfig.title,
+    //     short_name: metaConfig.title,
+    //     description: metaConfig.description,
+    //     lang: `en`,
+    //     display: `standalone`,
+    //     start_url: `/`,
+    //     icon: `static/favicon.png`,
+    //   },
+    // },
     {
       resolve: `gatsby-transformer-remark`,
       options: {
